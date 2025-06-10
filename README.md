@@ -9,4 +9,3 @@ This project detects **emotion shifts** in conversations using a context-aware t
 1. Clone the repository:
 ```bash
 git clone https://github.com/baranbarbarestani/context-aware-emotion-shift-detection.git
-cd context-aware-emotion-shift-detection
