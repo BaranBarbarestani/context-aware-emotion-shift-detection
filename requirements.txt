@@ -1,0 +1,4 @@
+torch>=1.10
+transformers>=4.10
+numpy
+jupyter
